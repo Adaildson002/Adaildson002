@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou @Adaildson002
 - 👀 Estou interessado em Python🐍 Full Stack
 - 🌱 Estou aprendendo Python ...
-- 📖 Cursando Engenhariade Software
+- 📖 Cursando Engenharia de Software
 - 📫 adaildson2002@gmail.com
 
 <!---
